@@ -83,3 +83,4 @@ body:
       placeholder: Logs, screenshots, etc.
     validations:
       required: false
+ 
